@@ -1,0 +1,14 @@
+Data science is an interdisciplinary field that uses scientific methods, statistics, computer science, and domain knowledge to extract knowledge and insights from data. Data scientists collect, process, and analyze large datasets to find patterns, build predictive models, and help organizations make informed decisions. This process often involves using techniques like machine learning and data visualization to uncover trends and communicate findings. 
+What data scientists do
+Use scientific methods to extract knowledge and insights from data, which can be structured or unstructured.
+Combine skills from areas like mathematics, statistics, computer science, and a specific industry (domain knowledge).
+Analyze data to answer questions like "what happened," "why it happened," and "what will happen".
+Build predictive models and algorithms to forecast future outcomes.
+Create visualizations like charts and maps to clearly communicate their findings to others.
+Use these insights to solve complex problems and improve business strategies in areas such as marketing, sales, and operations. 
+Key aspects of data science
+Multidisciplinary: It sits at the intersection of multiple fields, including computer science, statistics, and business expertise.
+Data-driven: It relies on the use of large amounts of data, often referred to as big data, to drive insights.
+Problem-solving focused: The ultimate goal is to provide actionable insights that help guide decision-making and strategic planning.
+Tool-driven: Professionals use a variety of tools and techniques, including machine learning, AI, statistical analysis, and data visualization.
+Broad application: Data science is used across a wide range of industries, including e-commerce, healthcare, banking, and technology

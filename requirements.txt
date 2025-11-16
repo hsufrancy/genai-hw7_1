@@ -1,0 +1,6 @@
+streamlit
+openai>=1.0.0
+pypdf
+python-docx
+numpy
+python-dotenv

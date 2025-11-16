@@ -1,0 +1,16 @@
+Question 1: Do you think Deep Learning is Better than Machine Learning? If so, why?
+Question 2: What is Perceptron? And How does it Work?
+
+Answer 1 Though traditional ML algorithms solve many of our cases, they are not helpful while working with high dimensional data; that is where we have a large number of inputs and outputs.
+For example, in handwriting recognition, we have a large amount of input where we will have different types of information associated with different kinds of handwriting.
+The second major challenge is to tell the computer what features it should look for that will play an essential role in predicting the outcome and achieve better accuracy.
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpZ5n7DdLkTiEfzQeYYaXwi2yxbeKlKayYQ&usqp=CAU
+
+Answer 2. If we focus on the structure of a biological neuron, it has dendrites that are used to receive inputs. These inputs are summed in the cell body, and using the Axon, it is passed on to the next biological neuron, as shown below.
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoIn52t-wyUZJhGCeLsKxQNnNpwzj7ES5Xw&usqp=CAU
+
+Dendrite: Receives signals from other neurons
+Cell Body: Sums all the inputs
+Axon: It is used to transmit signals to the other cells
+Similarly, a perceptron receives multiple inputs, applies various transformations and functions, and provides an output. A Perceptron is a linear model used for binary classification. It models a
+neuron with a set of inputs, each of which is given a specific weight. The neuron computes some function on these weighted inputs and gives the output
